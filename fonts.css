@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Styrene A Web';
+    src: url("fonts/StyreneAWebBold.eot");
+    src: url("fonts/StyreneAWebBold.eot?#iefix")format("embedded-opentype"),
+         url("fonts/StyreneAWebBold.woff") format("woff"),
+         url("fonts/StyreneAWebBold.ttf") format("truetype");      
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Styrene A Web';
+    src: url("fonts/StyreneAWebRegular.eot");
+    src: url("fonts/StyreneAWebRegular.eot?#iefix")format("embedded-opentype"),
+         url("fonts/StyreneAWebRegular.woff") format("woff"),
+         url("fonts/StyreneAWebRegular.ttf") format("truetype");    
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Styrene A Web';
+    src: url("fonts/StyreneAWebLight.eot");
+    src: url("fonts/StyreneAWebLight.eot?#iefix")format("embedded-opentype"),
+         url("fonts/StyreneAWebLight.woff") format("woff"),
+         url("fonts/StyreneAWebLight.ttf") format("truetype");             
+    font-weight: 300;
+    font-style: normal;
+}
+
+
